@@ -1,0 +1,24 @@
+{
+  "name": "json-server-whatcode-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal-Kumar-Shaw/json-server-whatcode-assignment.git"
+  },
+  "author": "Vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal-Kumar-Shaw/json-server-whatcode-assignment/issues"
+  },
+  "homepage": "https://github.com/Vishal-Kumar-Shaw/json-server-whatcode-assignment#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.1"
+  }
+}
